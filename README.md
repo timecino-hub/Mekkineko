@@ -1,0 +1,2 @@
+# Mekkineko
+Embedded system project
