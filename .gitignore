@@ -1,0 +1,33 @@
+build/
+release/
+Debug/
+Release/
+mx.scratch
+.settings/
+.vscode/
+.clangd
+.metadata/
+.cache/
+.claude/
+
+# Build artifacts
+*.elf
+*.map
+*.ninja_deps
+*.ninja_log
+build.ninja
+compile_commands.json
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+TargetDirectories.txt
+rules.ninja
+cmake.check_cache
+CMakeConfigureLog.yaml
+InstallScripts.json
+
+# IDE
+.settings/
+.vscode/
+__pycache__/
+*.pyc
